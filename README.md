@@ -1,1 +1,1 @@
-#Hi, I'm Mackenzie! I'm studying for a Bachelors in Computer Science and currently building my first React project: a smart task manager app!
+Hey! My names Mackenzie and I am in my senior year of college, studying for a bachelors of science in computer science!
